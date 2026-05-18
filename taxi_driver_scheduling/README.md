@@ -67,7 +67,7 @@ _Trips peak during evening rush hour_
 - *Lowest Earnings*: Hourly earnings hit low at ~ $12.8/hr - $13/hr from 6am to 8pm.
 - *Actions*:For best hourly earnings, drivers should target 5am and 3pm - 5pm. Avoid 6am to 8pm unless demand is assured.
 
-![Earnings by Hour](outputs/average_earnings_by_hour.png)  
+![Earnings by Hour](outputs/average_earnings_per_hour.png)  
 _Average fare + tip is highest 5pm-9pm_
 
 
