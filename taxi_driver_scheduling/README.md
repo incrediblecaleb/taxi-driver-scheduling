@@ -121,3 +121,5 @@ jupyter notebook taxi_driver_scheduling.ipynb
 
 *6. Business Impact*  
 If drivers follow these actionable insights, they can reduce idle time and empty drives and increase hourly earnings by 20-30%. For a taxi company, this means better driver retention, lower passenger wait times and higher revenue.
+*7. Next Steps*
+I would continue to analyze the outliers (trips with distance more than 15 miles) to reveal any hidden insights and  conduct hypothesis testing to verify whether the insights are accurate. 
